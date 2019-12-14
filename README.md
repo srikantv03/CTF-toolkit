@@ -79,6 +79,17 @@ This cheat sheets (not all-inclusive) contains many common SQL injection queries
 
 SQL injection truth statement: ```' OR '1'='1' --```
 
+[Flask injection cheat sheet](https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti)
+
+If the website uses flask.
+
+Change the browser the website thinks you're using: ```curl --user-agent "newbrowser" "https://thisisaurl.url"```
+
+[Javascript Deobfuscator](https://lelinhtinh.github.io/de4js/)
+
+Deobfuscate your javascript...
+
+IMPORTANT FILE: ```robots.txt``` may be in the website to hide information from robots.
 
 
 
