@@ -1,8 +1,8 @@
 # CTF-toolkit
 
-Tools to use in cybersecurity ctf challenges
+## Tools to use in cybersecurity ctf challenges
 
-## BASIC OPERATIONS
+### BASIC OPERATIONS
 
 
 Change directory: 
@@ -20,16 +20,25 @@ Connect through netcat:
 ``` nc *server address* *port* ``` EX: ```nc thisisaurl.url 123456```
 
 Run a python program
+```python filename.py```
 ```diff
 - MAKE SURE YOU HAVE PYTHON INSTALLED
 ```
-```python filename.py```
 
 Run a program (executable/bin)
-
 ```./filename```
 ```diff
 - MUST BE IN DIRECTORY OF PROGRAM
 ```
 
+
+### FORENSICS AND CRYPTOGRAPHY TOOLS
+
+[Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
+
+Great for images with metadata, escaped strings or hidden messages
+
+[Stenography Tool](https://stylesuxx.github.io/steganography/)
+
+Also great for decoding images, contains some features that Forensically doesn't
 
