@@ -6,7 +6,7 @@ Tools to use in cybersecurity ctf challenges
 
 
 Change directory: 
-```cd directory```
+```cd directory``` EX: ```cd Desktop```
 
 Grep for a string throughout all the files in a directory:
 ```grep -rni "string"```
@@ -24,3 +24,12 @@ Run a python program
 - MAKE SURE YOU HAVE PYTHON INSTALLED
 ```
 ```python filename.py```
+
+Run a program (executable/bin)
+
+```./filename```
+```diff
+- MUST BE IN DIRECTORY OF PROGRAM
+```
+
+
