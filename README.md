@@ -20,6 +20,7 @@ Connect through netcat:
 ``` nc *server address* *port* ``` EX: ```nc thisisaurl.url 123456```
 
 Run a python program
-
-```diff - MAKE SURE YOU HAVE PYTHON INSTALLED```
+```diff
+- MAKE SURE YOU HAVE PYTHON INSTALLED
+```
 ```python filename.py```
