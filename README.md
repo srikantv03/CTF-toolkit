@@ -21,4 +21,5 @@ Connect through netcat:
 
 Run a python program
 
-```diff - MAKE SURE YOU HAVE PYTHON INSTALLED
+```diff - MAKE SURE YOU HAVE PYTHON INSTALLED```
+```python filename.py```
