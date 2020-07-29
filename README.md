@@ -91,5 +91,11 @@ Deobfuscate your javascript...
 
 IMPORTANT FILE: ```robots.txt``` may be in the website to hide information from robots.
 
+### PROGRAMMING TOOLS
+
+[PWN Tools](http://docs.pwntools.com/en/stable/)
+
+This python library includes CTF specific functions such as stack overflow tools (dealing with little-endian and big-endian bytes), flag detection tools, and simple socket connection (send and recieve) tools. This library helps cut down the amount of time it takes to develop a python program to solve various different CTF challenges.
+
 
 
